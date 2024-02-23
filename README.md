@@ -7,10 +7,10 @@ Simple game contains one class, 2 functions and imported modules.
 
 ## How to use 
 
-1.Start game in terminal with node main.js
-2.Choose difficulty level (easy/medium/hard)
-3.Play game using A/W/S/D for movement, avoidion holes (0) and collisions
-4.Find you hat(get player to ^ element and win the game
+1. Start game in terminal with node main.js
+2. Choose difficulty level (easy/medium/hard)
+3. Play game using A/W/S/D for movement, avoidion holes (0) and collisions
+4. Find you hat(get player to ^ element and win the game
 
 ## Technologies
 
