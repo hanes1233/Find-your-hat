@@ -1,4 +1,4 @@
-[!screenshots](https://github.com/hanes1233/Find-your-hat/blob/main/starting/game.png)
+![screenshots](https://github.com/hanes1233/Find-your-hat/blob/main/starting/game.png)
 
 # Find-your-hat
 
